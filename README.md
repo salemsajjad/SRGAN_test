@@ -14,5 +14,5 @@ About the files in this repo:
 
 - trim_video.py --> when you want to trim a video from a second to another
 
-- video_to_frame --> when you want to get and save frames from a video
+- video_to_frame.py --> when you want to get and save frames from a video
 
